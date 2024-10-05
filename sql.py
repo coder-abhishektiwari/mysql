@@ -1,6 +1,5 @@
 import mysql.connector
 from tabulate import tabulate
-import getpass
 
 # Function to connect to MySQL server
 def connect_to_mysql():
