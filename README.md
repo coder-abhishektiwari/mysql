@@ -1,5 +1,3 @@
-Here’s a well-defined `README.md` file for your SQL Editor project that can be used for your GitHub repository. It explains the key features, setup instructions, and usage in a simple and clear way.
-
 ---
 
 # SQL Editor - Python-Based SQL Command Line Interface
@@ -51,7 +49,7 @@ Make sure you have MySQL installed on your system and have a running MySQL serve
 
 3. Run the script:
    ```bash
-   python sql_editor.py
+   python -m pip install requirements.txt
    ```
 
 ## Usage
@@ -114,7 +112,3 @@ Showing tables in the database...
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This `README.md` file is structured to explain your project clearly and is ready to be added to your GitHub repository. Feel free to replace `yourusername` with your actual GitHub username when updating the clone link.
-
-Let me know if you need any further tweaks!
